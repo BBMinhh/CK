@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688905361 source:d:\btvl\8m\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
